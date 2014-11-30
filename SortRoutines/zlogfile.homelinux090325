@@ -1,0 +1,1099 @@
+Main:  count 127
+Main:  repetition 1
+Main:  create 127 records as file 'dataFile'
+Main:  done creating records
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  1        127       8001       4069          6
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  1        127       4189       4069          3
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   1        127        982        208          0
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    1        127       1406        824          0
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 2
+Main:  create 127 records as file 'dataFile'
+Main:  done creating records
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  2        127       8001       4261          3
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  2        127       4385       4261          2
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   2        127        828        227          0
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    2        127       1423        834          0
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 3
+Main:  create 127 records as file 'dataFile'
+Main:  done creating records
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  3        127       8001       3703          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  3        127       3824       3703          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   3        127       1107        208          0
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    3        127       1432        842          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 4
+Main:  create 127 records as file 'dataFile'
+Main:  done creating records
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  4        127       8001       4063          0
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  4        127       4185       4063          0
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   4        127        802        218          0
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    4        127       1431        846          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  count 511
+Main:  repetition 1
+Main:  create 511 records as file 'dataFile'
+Main:  done creating records
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  1        511     130305      61553          4
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  1        511      62062      61553          3
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   1        511       5032       1072          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    1        511       7825       4428          2
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 2
+Main:  create 511 records as file 'dataFile'
+Main:  done creating records
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  2        511     130305      64868          3
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  2        511      65369      64868          3
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   2        511       4998       1097          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    2        511       7899       4479          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 3
+Main:  create 511 records as file 'dataFile'
+Main:  done creating records
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  3        511     130305      63284          3
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  3        511      63791      63284          2
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   3        511       4846       1122          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    3        511       7820       4405          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 4
+Main:  create 511 records as file 'dataFile'
+Main:  done creating records
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  4        511     130305      67033          3
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  4        511      67537      67033          3
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   4        511       4656       1110          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    4        511       7758       4354          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  count 2047
+Main:  repetition 1
+Main:  create 2047 records as file 'dataFile'
+Main:  done creating records
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  1       2047    2094081    1061740         50
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  1       2047    1063776    1061740         32
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   1       2047      24845       5408          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    1       2047      39395      21695          2
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 2
+Main:  create 2047 records as file 'dataFile'
+Main:  done creating records
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  2       2047    2094081    1073934         63
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  2       2047    1075976    1073934         36
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   2       2047      23289       5502          0
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    2       2047      39399      21685          2
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 3
+Main:  create 2047 records as file 'dataFile'
+Main:  done creating records
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  3       2047    2094081    1073139         62
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  3       2047    1075176    1073139         37
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   3       2047      23502       5489          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    3       2047      39394      21662          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 4
+Main:  create 2047 records as file 'dataFile'
+Main:  done creating records
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  4       2047    2094081    1024293         50
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  4       2047    1026330    1024293         35
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   4       2047      26749       5323          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    4       2047      39535      21786          1
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  count 8191
+Main:  repetition 1
+Main:  create 8191 records as file 'dataFile'
+Main:  done creating records
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  1       8191   33542145   16800588        732
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  1       8191   16808771   16800588        463
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   1       8191     125599      25156          3
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    1       8191     190942     103605          6
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 2
+Main:  create 8191 records as file 'dataFile'
+Main:  done creating records
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  2       8191   33542145   16791480        726
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  2       8191   16799664   16791480        474
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   2       8191     114444      25742          4
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    2       8191     190952     103605          6
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 3
+Main:  create 8191 records as file 'dataFile'
+Main:  done creating records
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  3       8191   33542145   16767993        726
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  3       8191   16776175   16767993        477
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   3       8191     124107      25293          4
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    3       8191     190867     103538          6
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 4
+Main:  create 8191 records as file 'dataFile'
+Main:  done creating records
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  4       8191   33542145   16857168        726
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  4       8191   16865344   16857168        480
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   4       8191     122898      25270          4
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 8191 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    4       8191     190881     103537          5
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  count 32767
+Main:  repetition 1
+Main:  create 32767 records as file 'dataFile'
+Main:  done creating records
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  1      32767  536821761  267792282      11967
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  1      32767  267825032  267792282       8461
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   1      32767     558450     117280         23
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    1      32767     894966     479915         36
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 2
+Main:  create 32767 records as file 'dataFile'
+Main:  done creating records
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  2      32767  536821761  267699916      13004
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  2      32767  267732664  267699916       7961
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   2      32767     582968     116481         23
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    2      32767     895020     479905         37
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 3
+Main:  create 32767 records as file 'dataFile'
+Main:  done creating records
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  3      32767  536821761  269231274      12877
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  3      32767  269264033  269231274       8026
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   3      32767     643505     114807         26
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    3      32767     894421     479315         32
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 4
+Main:  create 32767 records as file 'dataFile'
+Main:  done creating records
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  4      32767  536821761  268544818      13192
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  4      32767  268577568  268544818       8499
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   4      32767     591335     115528         13
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 32767 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    4      32767     894833     479719         45
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  count 131071
+Main:  repetition 1
+Main:  create 131071 records as file 'dataFile'
+Main:  done creating records
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  1     131071 8589737985 4055965377     380987
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  1     131071 4297476657 4297345602     263683
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   1     131071    2663283     525966        106
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    1     131071    4104414    2182200        237
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 2
+Main:  create 131071 records as file 'dataFile'
+Main:  done creating records
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  2     131071 8589737985 4059260607     369926
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  2     131071 4300898411 4300767349     269720
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   2     131071    2675907     520993        123
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    2     131071    4103287    2181090        212
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 3
+Main:  create 131071 records as file 'dataFile'
+Main:  done creating records
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  3     131071 8589737985 4049571856     371279
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  3     131071 4292288357 4292157294     265223
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   3     131071    2668861     523007        121
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    3     131071    4103437    2181057        210
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 4
+Main:  create 131071 records as file 'dataFile'
+Main:  done creating records
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  4     131071 8589737985 4054947122     380687
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  4     131071 4297204879 4297073822     277431
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   4     131071    2653784     524241         87
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 131071 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    4     131071    4104789    2182374        205
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  count 524287
+Main:  repetition 1
+Main:  create 524287 records as file 'dataFile'
+Main:  done creating records
+Main:  read 524287 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  1     524287 137438167041 23714120268    9467034
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 524287 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
+RecordArray:  enter insertionsort
+RecordArray:  leave insertionsort
+Main:  write the insertionsorted data
+insert(data,comps,swaps,millis)  1     524287 68729835541 68729311268   10731008
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 524287 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the quicksort
+RecordArray:  enter quicksort
+RecordArray:  leave quicksort
+Main:  write the quicksorted data
+quick(data,comps,swaps,millis)   1     524287   12649644    2264428        684
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 524287 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the heapsort
+RecordArray:  enter heapsort
+RecordArray:  leave heapsort
+Main:  write the heapsorted data
+heap(data,comps,swaps,millis)    1     524287   18515413    9777343       1451
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  repetition 2
+Main:  create 524287 records as file 'dataFile'
+Main:  done creating records
+Main:  read 524287 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the bubblesort
+RecordArray:  enter bubblesort
+RecordArray:  leave bubblesort
+Main:  write the bubblesorted data
+bubble(data,comps,swaps,millis)  2     524287 137438167041 23720242701   10082857
+RecordArray:  enter checkSort
+RecordArray:  leave checkSort
+Main:  read 524287 records from file 'dataFile'
+Main:  done reading records
+Main:  echo the data
+Main:  do the insertionsort
