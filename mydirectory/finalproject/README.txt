@@ -18,11 +18,11 @@ amount of resources an operating system may assign to a program. There is no
 reliable way to account for this potential disreperancy. 
    On the other hand, C++ allows for a time relative to the execution, which 
 ensures that the time will not be affected by the opertaing system's resource
-allocation. Still, we attempted to compare the speed of both programs, and this
-was of course done using wall time. In an attempt to control variables, 
-we used the same computer for both exectutions, closed all network connections,
-and closed all applications prior to the execution. During the execution we 
-supplied no input to the machine of any kind. Both executions were run
-sequentially, with a small break for cooldown. 
-	      	   <---->conclusions of exectution<--->
-
+allocation. It would be possible to compare the execution speeds, with relative
+accuracy, between Java and C++, using wall time, but since the current version
+of C++ can only recieve wall time accurate to the second, we decided against 
+using a side-by side wall time comparison, due to the extreme loss in accuracy.
+It is expected that C++ would execute more quickly than java, espescially since
+both languages used the same exact implementations of the various sorting 
+algorithms. The analysis of the sorting algorithms are as follows:
+     
