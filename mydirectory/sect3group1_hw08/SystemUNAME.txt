@@ -1,0 +1,1 @@
+Linux chatooga 3.13.0-40-generic #69~precise1-Ubuntu SMP Fri Nov 14 10:31:13 UTC 2014 i686 i686 i386 GNU/Linux
