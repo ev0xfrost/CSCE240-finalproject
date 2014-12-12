@@ -123,10 +123,10 @@ public class Main
         //********************************************************************
         // Echo the data.
         ///
-          FileUtils.logFile.printf("%s echo the data%n",TAG);
-          FileUtils.logFile.flush();
-          recs.writeRecordArray();
-          FileUtils.logFile.flush();
+//        FileUtils.logFile.printf("%s echo the data%n",TAG);
+//        FileUtils.logFile.flush();
+//        recs.writeRecordArray();
+//        FileUtils.logFile.flush();
 
         //********************************************************************
         // Do the bubblesort.
@@ -137,10 +137,10 @@ public class Main
         recs.bubblesort();
         timeEnd = System.currentTimeMillis();
 
-          FileUtils.logFile.printf("%s write the bubblesorted data%n",
-                                   TAG);
-          FileUtils.logFile.flush();
-         recs.writeRecordArray();
+//        FileUtils.logFile.printf("%s write the bubblesorted data%n",
+//                                 TAG);
+//        FileUtils.logFile.flush();
+//        recs.writeRecordArray();
         FileUtils.logFile.printf("bubble(data,comps,swaps,millis)  %2d %10d ",
                              reps,count);
 

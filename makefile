@@ -2,26 +2,38 @@ GPP = g++ -O3 -Wall
 
 UTILS = ../../Utilities
 
-A = Main.o
-M = MovingAverage.o
+M = Main.o
+R = OneRecord.o
+A = RecordArray.o
+O = Operators.o
+T = SortRoutines.o
 S = Scanner.o
 SL = ScanLine.o
 U = Utils.o
 
-Aprog: $A $M $S $(SL) $U
-	$(GPP) -o Aprog $A $M $S $(SL) $U
+Aprog: $M $R $A $O $T $S $(SL) $U
+	$(GPP) -o Aprog $M $R $A $O $T $S $(SL) $U
 
 Main.o: Main.h Main.cpp
 	$(GPP) -c Main.cpp
 
-MovingAverage.o: MovingAverage.h MovingAverage.cpp
-	$(GPP) -c MovingAverage.cpp
+OneRecord.o: OneRecord.h OneRecord.cpp
+	$(GPP) -c OneRecord.cpp
 
-Scanner.o: $(UTILS)/Scanner.h $(UTILS)/Scanner.cpp
-	$(GPP) -c $(UTILS)/Scanner.cpp
+RecordArray.o: RecordArray.h RecordArray.cpp
+	$(GPP) -c RecordArray.cpp
 
-ScanLine.o: $(UTILS)/ScanLine.h $(UTILS)/ScanLine.cpp
-	$(GPP) -c $(UTILS)/ScanLine.cpp
+Operators.o: Operators.cpp
+	$(GPP) -c Operators.cpp
 
-Utils.o: $(UTILS)/Utils.h $(UTILS)/Utils.cpp
-	$(GPP) -c $(UTILS)/Utils.cpp
+SortRoutines.o: SortRoutines.h SortRoutines.cpp
+	$(GPP) -c SortRoutines.cpp
+
+Scanner.o: Scanner.h Scanner.cpp
+	$(GPP) -c Scanner.cpp
+
+ScanLine.o: ScanLine.h ScanLine.cpp
+	$(GPP) -c ScanLine.cpp
+
+Utils.o: Utils.h Utils.cpp
+	$(GPP) -c Utils.cpp

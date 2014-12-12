@@ -1,0 +1,2005 @@
+Starting the computation
+Main: count 127
+Main: repetition 1
+Main: creating data file dataFile with 127 elements
+Main: data file created 
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Bubblesort            0.00 u         0.00 s   Res:        6948
+TIME Bubblesort            0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)1 127 8000 3850
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME VBubblesort           0.00 u        -0.00 s   Res:        6948
+TIME VBubblesort           0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)1 127 8000 3850
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Insertionsort         0.00 u        -0.00 s   Res:        6948
+TIME Insertionsort         0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)1 127 3970 3850
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Quicksort             0.00 u        -0.00 s   Res:        6948
+TIME Quicksort             0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)1 127 840 219
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Heapsort              0.00 u        -0.00 s   Res:        6948
+TIME Heapsort              0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)1 127 1430 835
+
+========================Beginning a new rep=============================
+Main: repetition 2
+Main: creating data file dataFile with 127 elements
+Main: data file created 
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Bubblesort            0.00 u        -0.00 s   Res:        6948
+TIME Bubblesort            0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)2 127 8000 3850
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME VBubblesort           0.00 u        -0.00 s   Res:        6948
+TIME VBubblesort           0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)2 127 8000 3850
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Insertionsort         0.00 u        -0.00 s   Res:        6948
+TIME Insertionsort         0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)2 127 3970 3850
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Quicksort             0.00 u        -0.00 s   Res:        6948
+TIME Quicksort             0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)2 127 840 219
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Heapsort              0.00 u        -0.00 s   Res:        6948
+TIME Heapsort              0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)2 127 1430 835
+
+========================Beginning a new rep=============================
+Main: repetition 3
+Main: creating data file dataFile with 127 elements
+Main: data file created 
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Bubblesort           -0.00 u        -0.00 s   Res:        6948
+TIME Bubblesort            0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)3 127 8000 3850
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME VBubblesort          -0.00 u        -0.00 s   Res:        6948
+TIME VBubblesort           0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)3 127 8000 3850
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Insertionsort        -0.00 u        -0.00 s   Res:        6948
+TIME Insertionsort         0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)3 127 3970 3850
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Quicksort            -0.00 u        -0.00 s   Res:        6948
+TIME Quicksort             0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)3 127 840 219
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Heapsort             -0.00 u        -0.00 s   Res:        6948
+TIME Heapsort              0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)3 127 1430 835
+
+========================Beginning a new rep=============================
+Main: repetition 4
+Main: creating data file dataFile with 127 elements
+Main: data file created 
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Bubblesort           -0.00 u        -0.00 s   Res:        6948
+TIME Bubblesort            0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)4 127 8000 3850
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME VBubblesort          -0.00 u        -0.00 s   Res:        6948
+TIME VBubblesort           0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)4 127 8000 3850
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Insertionsort         0.00 u        -0.00 s   Res:        6948
+TIME Insertionsort         0.01 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)4 127 3970 3850
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Quicksort            -0.00 u        -0.00 s   Res:        6948
+TIME Quicksort             0.01 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)4 127 840 219
+
+
+Main: reading 127 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Heapsort             -0.00 u        -0.00 s   Res:        6948
+TIME Heapsort              0.01 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)4 127 1430 835
+
+========================Beginning a new rep=============================
+Main: count 511
+Main: repetition 1
+Main: creating data file dataFile with 511 elements
+Main: data file created 
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Bubblesort           -0.00 u         0.00 s   Res:        6948
+TIME Bubblesort            0.01 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)1 511 130299 64979
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME VBubblesort          -0.00 u        -0.00 s   Res:        6948
+TIME VBubblesort           0.01 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)1 511 130299 64979
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Insertionsort         0.00 u        -0.00 s   Res:        6948
+TIME Insertionsort         0.01 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)1 511 65482 64979
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Quicksort            -0.00 u        -0.00 s   Res:        6948
+TIME Quicksort             0.01 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)1 511 4416 1117
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Heapsort             -0.00 u        -0.00 s   Res:        6948
+TIME Heapsort              0.01 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)1 511 7764 4354
+
+========================Beginning a new rep=============================
+Main: repetition 2
+Main: creating data file dataFile with 511 elements
+Main: data file created 
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Bubblesort           -0.00 u        -0.00 s   Res:        6948
+TIME Bubblesort            0.02 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)2 511 130299 64979
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME VBubblesort           0.00 u        -0.00 s   Res:        6948
+TIME VBubblesort           0.02 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)2 511 130299 64979
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Insertionsort        -0.00 u        -0.00 s   Res:        6948
+TIME Insertionsort         0.02 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)2 511 65482 64979
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Quicksort            -0.00 u        -0.00 s   Res:        6948
+TIME Quicksort             0.02 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)2 511 4416 1117
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Heapsort             -0.00 u        -0.00 s   Res:        6948
+TIME Heapsort              0.02 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)2 511 7764 4354
+
+========================Beginning a new rep=============================
+Main: repetition 3
+Main: creating data file dataFile with 511 elements
+Main: data file created 
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Bubblesort           -0.00 u        -0.00 s   Res:        6948
+TIME Bubblesort            0.02 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)3 511 130299 64979
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME VBubblesort          -0.00 u        -0.00 s   Res:        6948
+TIME VBubblesort           0.03 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)3 511 130299 64979
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Insertionsort        -0.00 u        -0.00 s   Res:        6948
+TIME Insertionsort         0.03 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)3 511 65482 64979
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Quicksort            -0.00 u        -0.00 s   Res:        6948
+TIME Quicksort             0.03 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)3 511 4416 1117
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Heapsort             -0.00 u        -0.00 s   Res:        6948
+TIME Heapsort              0.03 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)3 511 7764 4354
+
+========================Beginning a new rep=============================
+Main: repetition 4
+Main: creating data file dataFile with 511 elements
+Main: data file created 
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Bubblesort            0.00 u        -0.00 s   Res:        6948
+TIME Bubblesort            0.04 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)4 511 130299 64979
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME VBubblesort           0.00 u        -0.00 s   Res:        6948
+TIME VBubblesort           0.04 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)4 511 130299 64979
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Insertionsort         0.00 u        -0.00 s   Res:        6948
+TIME Insertionsort         0.04 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)4 511 65482 64979
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Quicksort             0.00 u        -0.00 s   Res:        6948
+TIME Quicksort             0.04 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)4 511 4416 1117
+
+
+Main: reading 511 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Heapsort              0.00 u        -0.00 s   Res:        6948
+TIME Heapsort              0.04 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)4 511 7764 4354
+
+========================Beginning a new rep=============================
+Main: count 2047
+Main: repetition 1
+Main: creating data file dataFile with 2047 elements
+Main: data file created 
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Bubblesort            0.03 u        -0.00 s   Res:        6948
+TIME Bubblesort            0.07 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)1 2047 2084901 1061827
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME VBubblesort           0.03 u        -0.00 s   Res:        6948
+TIME VBubblesort           0.10 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)1 2047 2084901 1061827
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Insertionsort         0.01 u        -0.00 s   Res:        6948
+TIME Insertionsort         0.12 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)1 2047 1063868 1061827
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Quicksort             0.00 u        -0.00 s   Res:        6948
+TIME Quicksort             0.12 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)1 2047 25196 5368
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Heapsort             -0.00 u        -0.00 s   Res:        6948
+TIME Heapsort              0.13 u_t       0.01 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)1 2047 39401 21674
+
+========================Beginning a new rep=============================
+Main: repetition 2
+Main: creating data file dataFile with 2047 elements
+Main: data file created 
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Bubblesort            0.03 u        -0.00 s   Res:        6948
+TIME Bubblesort            0.16 u_t       0.02 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)2 2047 2084901 1061827
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME VBubblesort           0.03 u        -0.00 s   Res:        6948
+TIME VBubblesort           0.19 u_t       0.02 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)2 2047 2084901 1061827
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Insertionsort         0.02 u        -0.00 s   Res:        6948
+TIME Insertionsort         0.21 u_t       0.02 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)2 2047 1063868 1061827
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Quicksort             0.00 u        -0.00 s   Res:        6948
+TIME Quicksort             0.21 u_t       0.02 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)2 2047 25196 5368
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Heapsort              0.00 u        -0.00 s   Res:        6948
+TIME Heapsort              0.22 u_t       0.02 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)2 2047 39401 21674
+
+========================Beginning a new rep=============================
+Main: repetition 3
+Main: creating data file dataFile with 2047 elements
+Main: data file created 
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Bubblesort            0.03 u        -0.00 s   Res:        6948
+TIME Bubblesort            0.25 u_t       0.02 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)3 2047 2084901 1061827
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME VBubblesort           0.03 u        -0.00 s   Res:        6948
+TIME VBubblesort           0.28 u_t       0.02 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)3 2047 2084901 1061827
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Insertionsort         0.01 u         0.00 s   Res:        6948
+TIME Insertionsort         0.30 u_t       0.02 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)3 2047 1063868 1061827
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Quicksort             0.00 u        -0.00 s   Res:        6948
+TIME Quicksort             0.30 u_t       0.02 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)3 2047 25196 5368
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Heapsort              0.00 u        -0.00 s   Res:        6948
+TIME Heapsort              0.30 u_t       0.02 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)3 2047 39401 21674
+
+========================Beginning a new rep=============================
+Main: repetition 4
+Main: creating data file dataFile with 2047 elements
+Main: data file created 
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Bubblesort            0.03 u        -0.00 s   Res:        6948
+TIME Bubblesort            0.34 u_t       0.02 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)4 2047 2084901 1061827
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME VBubblesort           0.03 u        -0.00 s   Res:        6948
+TIME VBubblesort           0.37 u_t       0.02 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)4 2047 2084901 1061827
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Insertionsort         0.01 u        -0.00 s   Res:        6948
+TIME Insertionsort         0.38 u_t       0.02 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)4 2047 1063868 1061827
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Quicksort            -0.00 u        -0.00 s   Res:        6948
+TIME Quicksort             0.39 u_t       0.02 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)4 2047 25196 5368
+
+
+Main: reading 2047 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Sun Dec  7 13:51:58 2014
+TIME Heapsort             -0.00 u        -0.00 s   Res:        6948
+TIME Heapsort              0.39 u_t       0.02 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)4 2047 39401 21674
+
+========================Beginning a new rep=============================
+Main: count 8191
+Main: repetition 1
+Main: creating data file dataFile with 8191 elements
+Main: data file created 
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   46.40  90.00                    Sun Dec  7 13:51:59 2014
+TIME Bubblesort            0.46 u        -0.00 s   Res:        6948
+TIME Bubblesort            0.87 u_t       0.03 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)1 8191 33527610 16827313
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:51:59 2014
+TIME VBubblesort           0.46 u        -0.00 s   Res:        6948
+TIME VBubblesort           1.34 u_t       0.03 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)1 8191 33527610 16827313
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:51:59 2014
+TIME Insertionsort         0.22 u        -0.00 s   Res:        6948
+TIME Insertionsort         1.58 u_t       0.03 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)1 8191 16835494 16827313
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:51:59 2014
+TIME Quicksort            -0.00 u        -0.00 s   Res:        6948
+TIME Quicksort             1.59 u_t       0.03 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)1 8191 136433 25152
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:51:59 2014
+TIME Heapsort              0.00 u        -0.00 s   Res:        6948
+TIME Heapsort              1.61 u_t       0.03 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)1 8191 190716 103346
+
+========================Beginning a new rep=============================
+Main: repetition 2
+Main: creating data file dataFile with 8191 elements
+Main: data file created 
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   46.40 100.00                    Sun Dec  7 13:52:00 2014
+TIME Bubblesort            0.46 u         0.00 s   Res:        6948
+TIME Bubblesort            2.08 u_t       0.04 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)2 8191 33527610 16827313
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:52:00 2014
+TIME VBubblesort           0.46 u         0.00 s   Res:        6948
+TIME VBubblesort           2.56 u_t       0.04 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)2 8191 33527610 16827313
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   22.40  94.67                    Sun Dec  7 13:52:01 2014
+TIME Insertionsort         0.22 u         0.00 s   Res:        6948
+TIME Insertionsort         2.80 u_t       0.04 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)2 8191 16835494 16827313
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00  95.07                    Sun Dec  7 13:52:01 2014
+TIME Quicksort             0.00 u         0.00 s   Res:        6948
+TIME Quicksort             2.81 u_t       0.04 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)2 8191 136433 25152
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00  95.60                    Sun Dec  7 13:52:01 2014
+TIME Heapsort              0.00 u         0.00 s   Res:        6948
+TIME Heapsort              2.82 u_t       0.04 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)2 8191 190716 103346
+
+========================Beginning a new rep=============================
+Main: repetition 3
+Main: creating data file dataFile with 8191 elements
+Main: data file created 
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:52:01 2014
+TIME Bubblesort            0.46 u         0.00 s   Res:        6948
+TIME Bubblesort            3.30 u_t       0.05 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)3 8191 33527610 16827313
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   46.40  95.80                    Sun Dec  7 13:52:02 2014
+TIME VBubblesort           0.46 u         0.00 s   Res:        6948
+TIME VBubblesort           3.78 u_t       0.05 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)3 8191 33527610 16827313
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:52:02 2014
+TIME Insertionsort         0.22 u         0.00 s   Res:        6948
+TIME Insertionsort         4.02 u_t       0.05 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)3 8191 16835494 16827313
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:52:02 2014
+TIME Quicksort             0.00 u         0.00 s   Res:        6948
+TIME Quicksort             4.03 u_t       0.05 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)3 8191 136433 25152
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:52:02 2014
+TIME Heapsort              0.00 u         0.00 s   Res:        6948
+TIME Heapsort              4.04 u_t       0.05 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)3 8191 190716 103346
+
+========================Beginning a new rep=============================
+Main: repetition 4
+Main: creating data file dataFile with 8191 elements
+Main: data file created 
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:52:02 2014
+TIME Bubblesort            0.46 u        -0.00 s   Res:        6948
+TIME Bubblesort            4.52 u_t       0.07 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)4 8191 33527610 16827313
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   46.40 100.00                    Sun Dec  7 13:52:03 2014
+TIME VBubblesort           0.46 u        -0.00 s   Res:        6948
+TIME VBubblesort           4.99 u_t       0.07 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)4 8191 33527610 16827313
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:52:03 2014
+TIME Insertionsort         0.23 u        -0.00 s   Res:        6948
+TIME Insertionsort         5.23 u_t       0.07 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)4 8191 16835494 16827313
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:52:03 2014
+TIME Quicksort            -0.00 u        -0.00 s   Res:        6948
+TIME Quicksort             5.24 u_t       0.07 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)4 8191 136433 25152
+
+
+Main: reading 8191 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:52:03 2014
+TIME Heapsort              0.00 u        -0.00 s   Res:        6948
+TIME Heapsort              5.26 u_t       0.07 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)4 8191 190716 103346
+
+========================Beginning a new rep=============================
+Main: count 32767
+Main: repetition 1
+Main: creating data file dataFile with 32767 elements
+Main: data file created 
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   92.40  98.58                    Sun Dec  7 13:52:11 2014
+TIME Bubblesort            7.39 u         0.00 s   Res:        6948
+TIME Bubblesort           12.70 u_t       0.12 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)1 32767 536807733 267274508
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent  100.00 100.00                    Sun Dec  7 13:52:18 2014
+TIME VBubblesort           7.41 u         0.00 s   Res:        6948
+TIME VBubblesort          20.15 u_t       0.12 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)1 32767 536807733 267274508
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   90.80  99.75                    Sun Dec  7 13:52:22 2014
+TIME Insertionsort         3.63 u         0.00 s   Res:        6948
+TIME Insertionsort        23.82 u_t       0.12 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)1 32767 267307263 267274508
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00  99.95                    Sun Dec  7 13:52:22 2014
+TIME Quicksort             0.01 u         0.00 s   Res:        6948
+TIME Quicksort            23.87 u_t       0.12 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)1 32767 614462 114260
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:52:22 2014
+TIME Heapsort              0.01 u         0.00 s   Res:        6948
+TIME Heapsort             23.92 u_t       0.12 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)1 32767 894858 479743
+
+========================Beginning a new rep=============================
+Main: repetition 2
+Main: creating data file dataFile with 32767 elements
+Main: data file created 
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent  100.00 100.00                    Sun Dec  7 13:52:29 2014
+TIME Bubblesort            7.40 u         0.00 s   Res:        6948
+TIME Bubblesort           31.38 u_t       0.16 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)2 32767 536807733 267274508
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   92.60  99.97                    Sun Dec  7 13:52:37 2014
+TIME VBubblesort           7.41 u         0.00 s   Res:        6948
+TIME VBubblesort          38.83 u_t       0.16 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)2 32767 536807733 267274508
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent  100.00 100.00                    Sun Dec  7 13:52:40 2014
+TIME Insertionsort         3.63 u         0.00 s   Res:        6948
+TIME Insertionsort        42.50 u_t       0.16 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)2 32767 267307263 267274508
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:52:40 2014
+TIME Quicksort             0.01 u         0.00 s   Res:        6948
+TIME Quicksort            42.55 u_t       0.16 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)2 32767 614462 114260
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:52:40 2014
+TIME Heapsort              0.02 u         0.00 s   Res:        6948
+TIME Heapsort             42.61 u_t       0.16 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)2 32767 894858 479743
+
+========================Beginning a new rep=============================
+Main: repetition 3
+Main: creating data file dataFile with 32767 elements
+Main: data file created 
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent  100.00 100.00                    Sun Dec  7 13:52:48 2014
+TIME Bubblesort            7.39 u        -0.00 s   Res:        6948
+TIME Bubblesort           50.05 u_t       0.20 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)3 32767 536807733 267274508
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent  100.00 100.00                    Sun Dec  7 13:52:55 2014
+TIME VBubblesort           7.41 u        -0.00 s   Res:        6948
+TIME VBubblesort          57.50 u_t       0.20 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)3 32767 536807733 267274508
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   90.90 100.00                    Sun Dec  7 13:52:59 2014
+TIME Insertionsort         3.64 u        -0.00 s   Res:        6948
+TIME Insertionsort        61.18 u_t       0.20 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)3 32767 267307263 267274508
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:52:59 2014
+TIME Quicksort             0.00 u         0.00 s   Res:        6948
+TIME Quicksort            61.22 u_t       0.20 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)3 32767 614462 114260
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:52:59 2014
+TIME Heapsort              0.01 u         0.00 s   Res:        6948
+TIME Heapsort             61.28 u_t       0.20 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)3 32767 894858 479743
+
+========================Beginning a new rep=============================
+Main: repetition 4
+Main: creating data file dataFile with 32767 elements
+Main: data file created 
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   92.40  99.95                    Sun Dec  7 13:53:07 2014
+TIME Bubblesort            7.39 u         0.00 s   Res:        6948
+TIME Bubblesort           68.73 u_t       0.24 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)4 32767 536807733 267274508
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent  100.00 100.00                    Sun Dec  7 13:53:14 2014
+TIME VBubblesort           7.41 u         0.00 s   Res:        6948
+TIME VBubblesort          76.18 u_t       0.24 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)4 32767 536807733 267274508
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   90.70 100.00                    Sun Dec  7 13:53:18 2014
+TIME Insertionsort         3.63 u         0.00 s   Res:        6948
+TIME Insertionsort        79.85 u_t       0.24 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)4 32767 267307263 267274508
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:53:18 2014
+TIME Quicksort             0.00 u         0.00 s   Res:        6948
+TIME Quicksort            79.90 u_t       0.24 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)4 32767 614462 114260
+
+
+Main: reading 32767 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:53:18 2014
+TIME Heapsort              0.01 u         0.00 s   Res:        6948
+TIME Heapsort             79.95 u_t       0.24 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)4 32767 894858 479743
+
+========================Beginning a new rep=============================
+Main: count 131071
+Main: repetition 1
+Main: creating data file dataFile with 131071 elements
+Main: data file created 
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   99.39  99.93                    Sun Dec  7 13:55:17 2014
+TIME Bubblesort          118.26 u         0.01 s   Res:        6948
+TIME Bubblesort          198.42 u_t       0.44 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)1 131071 -236793 9051798
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent  100.00 100.00                    Sun Dec  7 13:57:15 2014
+TIME VBubblesort         118.58 u        -0.00 s   Res:        6948
+TIME VBubblesort         317.17 u_t       0.44 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)1 131071 -236793 9051798
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent  100.00 100.00                    Sun Dec  7 13:58:14 2014
+TIME Insertionsort        58.54 u        -0.00 s   Res:        6948
+TIME Insertionsort       375.88 u_t       0.45 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)1 131071 9182858 9051798
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 13:58:14 2014
+TIME Quicksort             0.03 u        -0.00 s   Res:        6948
+TIME Quicksort           376.07 u_t       0.45 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)1 131071 2835679 523485
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    5.60  99.93                    Sun Dec  7 13:58:15 2014
+TIME Heapsort              0.06 u        -0.00 s   Res:        6948
+TIME Heapsort            376.30 u_t       0.45 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)1 131071 4103686 2181425
+
+========================Beginning a new rep=============================
+Main: repetition 2
+Main: creating data file dataFile with 131071 elements
+Main: data file created 
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent  100.00 100.00                    Sun Dec  7 14:00:13 2014
+TIME Bubblesort          118.26 u         0.02 s   Res:        6948
+TIME Bubblesort          494.74 u_t       0.68 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)2 131071 -236793 9051798
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   99.65 100.00                    Sun Dec  7 14:02:12 2014
+TIME VBubblesort         118.58 u        -0.00 s   Res:        6948
+TIME VBubblesort         613.49 u_t       0.68 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)2 131071 -236793 9051798
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   99.23  99.98                    Sun Dec  7 14:03:11 2014
+TIME Insertionsort        58.54 u        -0.00 s   Res:        6948
+TIME Insertionsort       672.20 u_t       0.68 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)2 131071 9182858 9051798
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 14:03:11 2014
+TIME Quicksort             0.03 u        -0.00 s   Res:        6948
+TIME Quicksort           672.40 u_t       0.68 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)2 131071 2835679 523485
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 14:03:11 2014
+TIME Heapsort              0.06 u        -0.00 s   Res:        6948
+TIME Heapsort            672.62 u_t       0.68 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)2 131071 4103686 2181425
+
+========================Beginning a new rep=============================
+Main: repetition 3
+Main: creating data file dataFile with 131071 elements
+Main: data file created 
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent  100.00 100.00                    Sun Dec  7 14:05:10 2014
+TIME Bubblesort          118.26 u         0.02 s   Res:        6948
+TIME Bubblesort          791.09 u_t       0.89 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)3 131071 -236793 9051798
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   99.65  99.97                    Sun Dec  7 14:07:09 2014
+TIME VBubblesort         118.58 u        -0.00 s   Res:        6948
+TIME VBubblesort         909.84 u_t       0.90 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)3 131071 -236793 9051798
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent  100.00 100.00                    Sun Dec  7 14:08:07 2014
+TIME Insertionsort        58.53 u        -0.00 s   Res:        6948
+TIME Insertionsort       968.54 u_t       0.90 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)3 131071 9182858 9051798
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    2.80  99.96                    Sun Dec  7 14:08:08 2014
+TIME Quicksort             0.03 u        -0.00 s   Res:        6948
+TIME Quicksort           968.74 u_t       0.90 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)3 131071 2835679 523485
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00  99.99                    Sun Dec  7 14:08:08 2014
+TIME Heapsort              0.06 u        -0.00 s   Res:        6948
+TIME Heapsort            968.96 u_t       0.90 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)3 131071 4103686 2181425
+
+========================Beginning a new rep=============================
+Main: repetition 4
+Main: creating data file dataFile with 131071 elements
+Main: data file created 
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent  100.00 100.00                    Sun Dec  7 14:10:06 2014
+TIME Bubblesort          118.27 u        -0.00 s   Res:        6948
+TIME Bubblesort         1087.46 u_t       1.06 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)4 131071 -236793 9051798
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent  100.00 100.00                    Sun Dec  7 14:12:05 2014
+TIME VBubblesort         118.57 u         0.01 s   Res:        6948
+TIME VBubblesort        1206.20 u_t       1.08 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)4 131071 -236793 9051798
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   99.21 100.00                    Sun Dec  7 14:13:04 2014
+TIME Insertionsort        58.53 u        -0.00 s   Res:        6948
+TIME Insertionsort      1264.90 u_t       1.08 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)4 131071 9182858 9051798
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 14:13:04 2014
+TIME Quicksort             0.03 u        -0.00 s   Res:        6948
+TIME Quicksort          1265.10 u_t       1.08 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)4 131071 2835679 523485
+
+
+Main: reading 131071 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 14:13:04 2014
+TIME Heapsort              0.06 u        -0.00 s   Res:        6948
+TIME Heapsort           1265.31 u_t       1.09 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)4 131071 4103686 2181425
+
+========================Beginning a new rep=============================
+Main: count 524287
+Main: repetition 1
+Main: creating data file dataFile with 524287 elements
+Main: data file created 
+Main: reading 524287 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent  100.00 100.00                    Sun Dec  7 14:44:40 2014
+TIME Bubblesort         1894.14 u         0.10 s   Res:       10776
+TIME Bubblesort         3160.32 u_t       1.89 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)1 524287 -1127982 60472598
+
+
+Main: reading 524287 from data file dataFile
+Main: reading done
+Do the variant bubblesort
+VBubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent  100.00 100.00                    Sun Dec  7 15:16:21 2014
+TIME VBubblesort        1899.78 u         0.14 s   Res:       13848
+TIME VBubblesort        5060.78 u_t       2.03 s_t
+TIME***********************************************************************
+
+
+VBubble(currentRep,data,comps,swaps)1 524287 -1127982 60472598
+
+
+Main: reading 524287 from data file dataFile
+Main: reading done
+Do the insertion sort
+Insertionsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   99.99  99.99                    Sun Dec  7 15:31:57 2014
+TIME Insertionsort       934.82 u         0.06 s   Res:       13848
+TIME Insertionsort      5996.28 u_t       2.10 s_t
+TIME***********************************************************************
+
+
+Insertion(currentRep,data,comps,swaps)1 524287 60996870 60472598
+
+
+Main: reading 524287 from data file dataFile
+Main: reading done
+Do the quicksort
+Quicksort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   12.00  99.99                    Sun Dec  7 15:31:58 2014
+TIME Quicksort             0.12 u        -0.00 s   Res:       13848
+TIME Quicksort          5997.07 u_t       2.11 s_t
+TIME***********************************************************************
+
+
+Quick(currentRep,data,comps,swaps)1 524287 13437168 2328904
+
+
+Main: reading 524287 from data file dataFile
+Main: reading done
+Do the heapsort
+Heapsort: timing info
+
+TIME***********************************************************************
+TIME CPU percent    0.00 100.00                    Sun Dec  7 15:31:58 2014
+TIME Heapsort              0.26 u        -0.00 s   Res:       13848
+TIME Heapsort           5998.01 u_t       2.12 s_t
+TIME***********************************************************************
+
+
+Heap(currentRep,data,comps,swaps)1 524287 18514648 9776346
+
+========================Beginning a new rep=============================
+Main: repetition 2
+Main: creating data file dataFile with 524287 elements
+Main: data file created 
+Main: reading 524287 from data file dataFile
+Main: reading done
+Do the bubblesort
+Early exit at bubblesort
+Bubblesort: timing info
+
+TIME***********************************************************************
+TIME CPU percent   99.96  99.99                    Sun Dec  7 16:03:35 2014
+TIME Bubblesort         1894.13 u         0.12 s   Res:       13848
+TIME Bubblesort         7893.01 u_t       2.97 s_t
+TIME***********************************************************************
+
+
+Bubble(currentRep,data,comps,swaps)2 524287 -1127982 60472598
+
+
+Main: reading 524287 from data file dataFile
+Main: reading done
+Do the variant bubblesort
