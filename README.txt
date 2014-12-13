@@ -19,3 +19,4 @@ If this works, you should have the appropriate output files in your
 directory. For me, with login id 'buell', the output should be in
 'testdirectory/buell_hw01/zoutputxx.txt'.
 
+test
